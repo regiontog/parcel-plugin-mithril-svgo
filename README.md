@@ -1,11 +1,8 @@
 # parcel-plugin-mithril-svgo
 
-Parcel inline SVG mithril components
+Inline SVG mithril components for parcel
 
 ## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Installing
 
 To install add the plugin as a dependency.
@@ -42,7 +39,7 @@ parcel build index.html
 
 ### Configuration
 
-The contents of `svgorc` or `svgo.config.js` will be passed to `new SVGO(...)`. See available plugins [here](https://github.com/svg/svgo#what-it-can-do).
+The contents of `.svgorc` or `svgo.config.js` will be passed to `new SVGO(...)`. See available plugins [here](https://github.com/svg/svgo#what-it-can-do).
 
 Example
 
