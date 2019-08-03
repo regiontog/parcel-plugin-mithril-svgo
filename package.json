@@ -1,0 +1,13 @@
+{
+  "name": "parcel-plugin-mithril-svgo",
+  "version": "0.1.0",
+  "description": "Parcel plugin for inline mithril svg components",
+  "main": "index.js",
+  "repository": "github.com/regintog/parcel-plugin-mithril-svgo",
+  "author": "Erlend Tobiassen",
+  "license": "MIT",
+  "dependencies": {
+    "js-string-escape": "^1.0.1",
+    "svgo": "^1.3.0"
+  }
+}
